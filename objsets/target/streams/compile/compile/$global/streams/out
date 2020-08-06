@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/aureliakain/Documents/Mooc/scala/objsets/src/main/scala/objsets/TweetSet.scala:144:37: objsets.Tweet does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    val maxLeft = left.mostRetweeted(tweetSet)[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/aureliakain/Documents/Mooc/scala/objsets/src/main/scala/objsets/TweetSet.scala:145:39: objsets.Tweet does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m    val maxRight = right.mostRetweeted(tweetSet)[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/aureliakain/Documents/Mooc/scala/funsets/src/test/scala/funsets/FunSetSuite.scala:105:25: not found: value s[0m
+[0m[[0m[31merror[0m] [0m[0m          assert(forall(s, p)==true, "forall 1")[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

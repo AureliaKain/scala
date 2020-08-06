@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/aureliakain/Documents/Mooc/scala/example/src/test/scala/example/ListsSuite.scala:101:31: Option[Int] and Int are unrelated: they will most likely never compare equal[0m
+[0m[[0m[33mwarn[0m] [0m[0m    assert(max(List(3, 7, 2)) == 7)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

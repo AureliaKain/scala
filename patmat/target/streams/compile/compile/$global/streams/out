@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/aureliakain/Documents/Mooc/scala/patmat/src/main/scala/patmat/Huffman.scala:110:57: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: List(_)[0m
+[0m[[0m[33mwarn[0m] [0m[0m  def combine(trees: List[CodeTree]): List[CodeTree] = {trees match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

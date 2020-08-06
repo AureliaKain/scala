@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54e805b8-056a-4f91-bbe0-2fbdeb60abaa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XnulafKqr0hvxLjLXKy5eKMKya" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../Github/de_clickio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Github/de_clickio/de_clickio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Github/de_clickio/de_clickio/hpgm-dashboard" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Github/de_util" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Github/dt/de_clickio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Github/tapir/de_clickio" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54e805b8-056a-4f91-bbe0-2fbdeb60abaa" name="Default Changelist" comment="" />
+      <created>1581694331077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581694331077</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581869810107">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.831@0.23.1440.831" timestamp="1581869810107" />
+    <state x="536" y="359" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1581870526726">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="457" y="-630" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1440.831/-258.-1057.1920.1057@-258.-1057.1920.1057" timestamp="1581695123858" />
+    <state x="536" y="359" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.23.1440.831@0.23.1440.831" timestamp="1581870526726" />
+    <state width="678" height="207" key="GridCell.Tab.0.bottom" timestamp="1581936006419">
+      <screen x="-258" y="-1057" width="1920" height="1011" />
+    </state>
+    <state width="678" height="207" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1581871065847" />
+    <state width="678" height="207" key="GridCell.Tab.0.bottom/0.23.1440.877/-258.-1057.1920.1011@-258.-1057.1920.1011" timestamp="1581936006419" />
+    <state width="678" height="207" key="GridCell.Tab.0.center" timestamp="1581936006418">
+      <screen x="-258" y="-1057" width="1920" height="1011" />
+    </state>
+    <state width="678" height="207" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1581871065846" />
+    <state width="678" height="207" key="GridCell.Tab.0.center/0.23.1440.877/-258.-1057.1920.1011@-258.-1057.1920.1011" timestamp="1581936006418" />
+    <state width="678" height="207" key="GridCell.Tab.0.left" timestamp="1581936006418">
+      <screen x="-258" y="-1057" width="1920" height="1011" />
+    </state>
+    <state width="678" height="207" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1581871065845" />
+    <state width="678" height="207" key="GridCell.Tab.0.left/0.23.1440.877/-258.-1057.1920.1011@-258.-1057.1920.1011" timestamp="1581936006418" />
+    <state width="678" height="207" key="GridCell.Tab.0.right" timestamp="1581936006419">
+      <screen x="-258" y="-1057" width="1920" height="1011" />
+    </state>
+    <state width="678" height="207" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1581871065847" />
+    <state width="678" height="207" key="GridCell.Tab.0.right/0.23.1440.877/-258.-1057.1920.1011@-258.-1057.1920.1011" timestamp="1581936006419" />
+    <state x="310" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1583244461405">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="310" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.830/-258.-1057.1920.1057@0.23.1440.830" timestamp="1583244461405" />
+    <state x="155" y="-749" key="com.intellij.ide.util.TipDialog/0.23.1440.831/-258.-1057.1920.1057@-258.-1057.1920.1057" timestamp="1582033626478" />
+    <state x="745" y="178" width="670" height="676" key="search.everywhere.popup" timestamp="1581870293783">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="745" y="178" width="670" height="676" key="search.everywhere.popup/0.23.1440.831@0.23.1440.831" timestamp="1581870293783" />
+  </component>
+</project>

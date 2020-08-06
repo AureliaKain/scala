@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1fia95XNeYdfy34rax7tf5m157r" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Github/de_clickio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Github/de_clickio/de_clickio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Github/de_clickio/de_clickio/hpgm-dashboard" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Github/de_util" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Github/dt/de_clickio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Github/tapir/de_clickio" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/recfun" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
